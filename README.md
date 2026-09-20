@@ -3,8 +3,7 @@
 ### What statistics make someone the Defensive Player of the Year?
 
 ## Project Overview
-This project builds a machine learning model to predict the 2026 WNBA Defensive Player of the Year (DPOY) using player performance metrics, advanced defensive statistics, and team context from the past five seasons.
-The goal is to identify which players are most likely to receive DPOY recognition by modeling both statistical dominance and defensive impact.
+This project builds a machine learning probability model to assess which statistics in the past have had the greatest impact on what qualifies a player for being considered the best defender in the WNBA. By using player performance metrics and team defensive statistics from the past five seasons, the model will estimate each player's probability of receiving the Defensive Player of the Year award in the 2026 season.
 
 ## Dataset
 
